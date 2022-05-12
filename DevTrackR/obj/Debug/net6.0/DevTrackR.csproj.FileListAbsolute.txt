@@ -1,0 +1,15 @@
+C:\Workspace\DevTrackR\DevTrackR\bin\Debug\net6.0\DevTrackR.exe
+C:\Workspace\DevTrackR\DevTrackR\bin\Debug\net6.0\DevTrackR.deps.json
+C:\Workspace\DevTrackR\DevTrackR\bin\Debug\net6.0\DevTrackR.runtimeconfig.json
+C:\Workspace\DevTrackR\DevTrackR\bin\Debug\net6.0\DevTrackR.dll
+C:\Workspace\DevTrackR\DevTrackR\bin\Debug\net6.0\DevTrackR.pdb
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.csproj.AssemblyReference.cache
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.AssemblyInfoInputs.cache
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.AssemblyInfo.cs
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.csproj.CoreCompileInputs.cache
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.dll
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\refint\DevTrackR.dll
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.pdb
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\DevTrackR.genruntimeconfig.cache
+C:\Workspace\DevTrackR\DevTrackR\obj\Debug\net6.0\ref\DevTrackR.dll

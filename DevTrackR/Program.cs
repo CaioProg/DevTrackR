@@ -42,10 +42,10 @@ void ExibirMensagemPrincipal()
 
 void CadastrarPacote()
 {
-    Console.WriteLine("Digite o titulo.");
+    Console.WriteLine("Digite o titulo:");
     var titulo = Console.ReadLine();
 
-    Console.WriteLine("Digite a descrição.");
+    Console.WriteLine("Digite a descrição:");
     var descricao = Console.ReadLine();
 
     var pacote = new Pacote(titulo, descricao);
@@ -57,7 +57,7 @@ void CadastrarPacote()
 
 void AtualizarPacote()
 {
-    Console.WriteLine("Digite o código do pacote.");
+    Console.WriteLine("Digite o código do pacote:");
     var codigo = Console.ReadLine();
 
     var pacote = pacotes.SingleOrDefault(p => p.Codigo == codigo);
@@ -68,7 +68,7 @@ void AtualizarPacote()
         return;
     }
 
-    Console.WriteLine("Digite o status atual.");
+    Console.WriteLine("Digite o status atual:");
     var status = Console.ReadLine();
 
     pacote.AtualizarStatus(status);
@@ -77,7 +77,7 @@ void AtualizarPacote()
 
 void ConsultarPacote()
 {
-    Console.WriteLine("Digite o código do pacote.");
+    Console.WriteLine("Digite o código do pacote:");
     var codigo = Console.ReadLine();
 
     var pacote = pacotes.SingleOrDefault(p => p.Codigo == codigo);
